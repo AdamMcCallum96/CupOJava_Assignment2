@@ -1,5 +1,7 @@
 #Test gitignore
-.class
+.classpath
 .project
-.settings
+.settings/
+pom.xml
+src/
 target/
