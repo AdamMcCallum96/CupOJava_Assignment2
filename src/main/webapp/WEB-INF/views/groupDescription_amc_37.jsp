@@ -5,10 +5,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Assignment 2</title>
 </head>
 <body>
-<p>Hello group description </p>
-<p>${groupDescription.getDescription()}</p>
+<p>${groupDescription_amc_37.getDescription()}</p>
 </body>
 </html>
