@@ -6,6 +6,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import com.csis3275.model_hka_05.Assignment02_CupOJava_Model_hka_05;
 
+/**
+ * Controller class for feature 
+ * @author Heena
+ *
+ */
 @Controller
 public class Assignment02_CupOJava_Controller_hka_05 {
 
