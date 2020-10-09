@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.csis3275.controller_hka_05","c":"Assignment02_CupOJava_Controller_hka_05","l":"Assignment02_CupOJava_Controller_hka_05()","url":"%3Cinit%3E()"},{"p":"com.csis3275.controller_hka_05","c":"Assignment02_CupOJava_Controller_hka_05","l":"createDescription(ModelMap)","url":"createDescription(org.springframework.ui.ModelMap)"}]
